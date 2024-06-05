@@ -10,7 +10,7 @@ export default function About() {
     <>
       <section className={styles.aboutPage}>
         <header className={styles.aboutHeader}>
-          <Link className={styles.goToHome} href="/">Ir pra home</Link>
+          <Link className={styles.goToHome} href="/">Ir para home</Link>
           <h1 className={styles.pageTitle}>Documentação de componentes</h1>
         </header>
         <div className={styles.doc}>
