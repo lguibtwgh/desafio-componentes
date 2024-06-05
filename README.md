@@ -8,6 +8,7 @@ O projeto está feito em next, faz algum tempinho que eu não trabalho com React
 Qualquer dúvida vou deixar meus contatos aqui :D
 
 E-mail: lguibtw@gmail.com
+
 WhatsApp: (44) 98859-5944
 
 ## Iniciando
