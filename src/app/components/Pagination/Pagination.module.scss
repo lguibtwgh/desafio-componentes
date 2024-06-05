@@ -1,0 +1,39 @@
+.paginationContainer {
+  display: flex;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    flex-wrap: wrap;
+  }
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.paginationButton {
+  padding: 8px 16px;
+  margin: 0 8px;
+  background-color: #F5F5F5;
+  border: 1px solid #E5E5E5;
+  cursor: pointer;
+  border-radius: 4px;
+
+  &:hover {
+    background-color: #167ABC;
+    filter: brightness(150%);
+    color: #fff;
+  }
+
+  @media (max-width: 767px) {
+    padding: 8px 12px;
+    margin: 0 4px;
+  }
+}
+
+.paginationButtonActive {
+  color: #fff;
+  background-color: #167ABC;
+}

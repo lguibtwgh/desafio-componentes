@@ -1,0 +1,25 @@
+.cardListHeader {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 0 24px;
+
+  span {
+    color: #8E8E8E;
+    font-size: 12px;
+
+    @media (max-width: 767px) {
+      &:nth-child(2) {
+        display: none;
+      }
+
+      &:nth-child(3) {
+        display: none;
+      }
+    }
+  }
+
+  @media (max-width: 767px) {
+    grid-template-columns: 1fr;
+    padding: 0 96px;
+  }
+}
