@@ -1,3 +1,7 @@
+## Observações
+O botão para ir para a página /about (que tem a documentação dos componentes) é o LG, que está logo a direita do meu nome no header.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
