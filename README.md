@@ -1,5 +1,6 @@
 ## Observações
 O botão para ir para a página /about (que tem a documentação dos componentes) é o LG, que está logo a direita do meu nome no header.
+
 ![Captura de tela de 2024-06-05 18-08-24](https://github.com/lguibtwgh/desafio-componentes/assets/171868414/ff2e293a-b32b-43b3-8796-23c74dd396d2)
 
 O projeto está feito em next, faz algum tempinho que eu não trabalho com React e é o que a documentação do próprio React recomenda, espero não ter problema.
